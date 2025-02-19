@@ -11,7 +11,7 @@ _See the [release section](https://github.com/luca2040/EldenRingAutoFPSUnlocker/
 ## Description
 
 - This mod does not modify any file, and it **doesn't require any installation or configuration, as it is a single small executable file and does everything automatically**.
-- When the mod is opened, it automatically checks if Steam is running to correctly launch the game, if not it automatically starts it.
+- When the mod is opened, it automatically checks if Steam is running to correctly launch the game, if not it automatically starts it, and then starts the game.
 - After launching the game the mod will show a little overlay at the top-left of the screen for some seconds, saying the framerate limit that the game has been unlocked to.
 - If the game is already opened and the mod is launched, it will automatically apply the framerate unlock to the current opened game, without needing to close it and restart.
 
