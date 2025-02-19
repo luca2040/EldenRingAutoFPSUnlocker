@@ -17,6 +17,10 @@ _See the [release section](https://github.com/luca2040/EldenRingAutoFPSUnlocker/
 
 _If you want to start the game without the mod, launch it as usual because the mod does not permanently modify the game._
 
+## Framerate set overlay (example)
+
+![overlay](https://github.com/user-attachments/assets/9e5a463e-7b81-4140-9c50-3a32ced44ecc)
+
 ## Configuration
 
 _Before changing the config make sure to have started the mod at least once._<br/><br/>
