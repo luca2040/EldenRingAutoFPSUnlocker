@@ -2,7 +2,7 @@
 
 #### _Simple and small mod to unlock Elden Ring framerate, that when opened automatically launches game. <br/> **Fully compatible with DLC and Seamless Coop mod**_
 
-_C# game patching logic and memory patterns from [Elden Ring FPS Unlocker and more](https://github.com/uberhalit/EldenRingFpsUnlockAndMore) and it's [pull request #147](https://github.com/uberhalit/EldenRingFpsUnlockAndMore/pull/147) respecting the original license._
+_C# game patching logic and memory patterns from [Elden Ring FPS Unlocker and more](https://github.com/uberhalit/EldenRingFpsUnlockAndMore) and its [pull request #147](https://github.com/uberhalit/EldenRingFpsUnlockAndMore/pull/147) respecting the original license._
 
 ## Mod download
 
