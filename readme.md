@@ -6,7 +6,7 @@ _C# game patching logic and memory patterns from [Elden Ring FPS Unlocker and mo
 
 ## Mod download
 
-_See the release section in this repo._
+_See the [release section](https://github.com/luca2040/EldenRingAutoFPSUnlocker/releases)_
 
 ## Description
 
