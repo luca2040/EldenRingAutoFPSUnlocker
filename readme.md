@@ -44,5 +44,6 @@ _The first time using the mod it may ask for admin rights to find the game files
 
 ## Possible problems
 
-If the game is set to `fullscreen` it may still lock to 60 FPS so you have to override this in the NVIDIA Control panel settings (For NVIDIA) or Display settings (For AMD) or set another option like `borderless window` in the game.<br/><br/>
+If the game is set to `fullscreen` it may still lock to 60 FPS so you have to override this in the NVIDIA Control panel settings (For NVIDIA) or Display settings (For AMD) or set another option like `borderless window` in the game.<br/>
+To remove the FPS limit from the NVIDIA Control panel go to `3D settings` -> `Program settings`, if in the dropdown `Select a program to customize` there isn't Elden Ring, click on `Add` and select it. Then in the `Specify the settings for this program` set the option `Vertical sync` to `Off`<br/><br/>
 If the mod doesn't work as it should or you have some suggestions, you are free to open a new Issue or Pull Request.
