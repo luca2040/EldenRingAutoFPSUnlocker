@@ -68,8 +68,6 @@ namespace EldenRingAutoFPSUnlocker
         internal const int PATTERN_FRAMELOCK_OFFSET_FUZZY = 6;
 
         /**
-            HARDCODED limit to 60 Hz monitor refresh rate on every resolution change. FromSoft doesn't even bother with reading the user defined Hz from driver.
-            This is not just lazy, but anti-consumer as they did aknowledge user-defined Hz override in Sekiro, but not anymore in ER.
             00007FF7A30CAB25 | EB 0E                      | jmp eldenring.7FF7A30CAB35                                     |
             00007FF7A30CAB27 | C745 EF 3C000000           | mov dword ptr ss:[rbp-11],3C                                   | forces monitor to 60 (0x3C) Hz
             00007FF7A30CAB2E | C745 F3 01000000           | mov dword ptr ss:[rbp-D],1                                     | 1 indicates a hertz change
