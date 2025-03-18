@@ -4,6 +4,8 @@
 
 _C# game patching logic and memory patterns from [Elden Ring FPS Unlocker and more](https://github.com/uberhalit/EldenRingFpsUnlockAndMore) and its [pull request #147](https://github.com/uberhalit/EldenRingFpsUnlockAndMore/pull/147) respecting the original license._
 
+**DON'T USE THIS MOD FOR PVP OR TOURNEYS, AS IT ALTERS FRAME DATA AND COULD BE BANNABLE.**
+
 ## Mod download
 
 _See the [release section](https://github.com/luca2040/EldenRingAutoFPSUnlocker/releases)_
